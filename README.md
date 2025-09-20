@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mr-olayiwola
-- 👀 I’m interested in peole, creativity, designs and God
-- 🌱 I’m currently learning ui/ux design
-- 💞️ I’m looking to collaborate on product design projects
-- 📫 How to reach me : olayiwolallibalogun@gmail.com
+Hi, I’m Olayiwola
+
+Frontend Developer and a UI/UX Designer
+
+I design and build digital experiences that are not only functional but also delightful to use. My focus is on creating clean interfaces, smooth user flows, and responsive web applications that bridge the gap between design and code
 
 <!---
 mr-olayiwola/mr-olayiwola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
